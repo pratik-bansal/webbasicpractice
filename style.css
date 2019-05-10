@@ -1,0 +1,113 @@
+#p1{
+    color:royalblue;
+    background-color:rosybrown;
+    font-size: 40px;
+    border: solid;
+    border-color: red;
+    margin: 4%;
+    padding: 6%;
+
+}
+.p2{
+    color: peru;
+    background-color: green;
+    font-size: 40px;
+   margin: 4%;
+   padding: 0%;
+   border: dashed;
+    border-color:blue;
+}
+.p3{
+    color:gray;
+    background-color: gold;
+    font-size: 40px;
+    margin: 4%;
+    padding: 6%;
+    border: dotted;
+    border-color: black;
+    
+
+}
+#h1{
+    color: papayawhip;
+    background-color:black;
+}
+.list1{
+    color: black;
+    font-size: 40px;
+    
+}
+.list2{
+    color: red;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    width: 50%;
+   
+
+
+}
+.l3{
+    color:blue;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+    border: solid;
+    background-color: darkgrey;
+    outline-style: groove;
+    background-position:right;
+    background-image: url(star.png);
+    background-repeat:no-repeat;
+
+}
+.l2{
+    color:blue;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+    border: dotted;
+    background-color: darkgrey;
+    outline-style: solid;
+    background-position:right;
+    background-image: url(star.png);
+    background-repeat:no-repeat;
+            
+}
+.l1{
+    color:red;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+    border: double;
+    background-color: darkgrey;
+    outline-style: solid;
+    background-image: url(star.png);
+
+}
+.l4{
+    color:red;
+    font-size: 40px;
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+    border: double;
+    background-color: darkgrey;
+    outline-style: solid;
+    
+
+}
+li:hover{
+    color:hotpink;
+    background-color: white;
+    transition: width 2s, height 4s;
+    transform: translate(20px,20px);
+    opacity: 0.6;
+}
+img{
+    position: absolute;
+    
+}
